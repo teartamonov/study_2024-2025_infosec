@@ -98,4 +98,4 @@ chattr — команда, изменяющая атрибуты файлов н
 
 ## Список литературы
 
-1. chmod wiki [Электронный ресурс]. Wikimedia Foundation, Inc., 2024. URL: https://en.wikipedia.org/wiki/Chmod.
+1. chattr [Электронный ресурс]. Wikimedia Foundation, Inc., 2024. URL: https://en.wikipedia.org/wiki/Chattr.
